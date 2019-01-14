@@ -55,10 +55,10 @@ Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes
 ``` json
 {
   "tallythepurrocious": {
-    "name": "Tally The Purrocious",
+    "name": "Tally the Purrocious",
     "date": "2019-01-10", "time": { "end": "2019-01-21" },
     "traits": ["selkirk", "koala", "arcreactor", "sully" ],
-    "desc": "Gods Unchained Promotion - Mystical Cat Talisman"
+    "desc": "Mystical Cat Talisman - Gods Unchained Promotion"
   },
   "aeoncat": {
     "name": "Aeoncat",
