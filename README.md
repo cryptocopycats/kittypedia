@@ -56,32 +56,54 @@ Example - All Fancy Cats (Normal, Exclusive, Special Edition) with Trait Recipes
 {
   "tallythepurrocious": {
     "name": "Tally the Purrocious",
-    "date": "2019-01-10", "time": { "end": "2019-01-21" },
-    "traits": ["selkirk", "koala", "arcreactor", "sully" ],
+    "recipe": {
+      "time": { "start": "2019-01-10", "end": "2019-01-21" },
+      "traits": ["selkirk", "koala", "arcreactor", "sully" ]},
     "desc": "Mystical Cat Talisman - Gods Unchained Promotion"
   },
   "aeoncat": {
     "name": "Aeoncat",
-    "date": "2019-01-10", "limit": 380, "time": {"start": "2019-01-17", "end": "2019-01-28"},
-    "desc": "Goddess Aeona - Goddess of Nature - Gods Unchained Promotion",
-    "special": true
+    "specialedition": {
+      "time": {"start": "2019-01-17", "end": "2019-01-28"},
+      "limit": 380 },
+    "desc": "Goddess Aeona - Goddess of Nature - Gods Unchained Promotion"
   },
   "hypurrion": {
     "name": "Hypurrion",
-    "date": "2019-01-10", "limit": 1, "ids": [269],
-    "desc": "Hyperion - Mythic Titan of Light - Gods Unchained Promotion",
-    "exclusive": true
+    "date": "2019-01-10",
+    "exclusive": {
+       "limit": 1, "ids": [269] },
+    "desc": "Hyperion - Mythic Titan of Light - Gods Unchained Promotion"
   },
   "catzy": {
     "name": "Catzy",
-    "date": "2018-12-31", "limit": 10, "ids": [1137653,1137654,1137655,1137656,1137657,
-                                               1137658,1137659,1137660,1137661,1137662],
-    "special": true,
+    "date": "2018-12-31",
+    "specialedition": {
+      "limit": 10, "ids": [1137653,1137654,1137655,1137656,1137657,
+                           1137658,1137659,1137660,1137661,1137662] },
     "desc": "Changpeng \"CZ\" Zhao - CEO of Binance - Top 10 Blockchain Influencer of the Year 2018 by CoinDesk"
   },
   ...
 }
 ```
+
+Example - All Purrstige Cattributes with Trait Recipes, Time Windows, and More - [`purrstiges.json`](https://raw.githubusercontent.com/cryptocopycats/kittyverse.json/master/purrstiges.json):
+
+``` json
+{
+  "bionic": {
+    "name": "Bionic",
+    "recipe": {
+      "time": { "start": "2019-05-01", "end": "2019-08-31" },
+      "traits": ["ragdoll",
+                 "WE05",
+                 ["totesbasic 1", "totesbasic 2", "totesbasic 3"],
+                 "PU30"]}
+  },
+  ...
+}
+```
+
 
 ## How to Use the Public JSON HTTP API (Micro) Web Service - No API Key Required ;-)
 
@@ -100,6 +122,8 @@ edit the JSON files but the source text files in the kittyverse repo** e.g.:
 
 - Trait Types and Traits in [`/kittyverse/../traits.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/traits.rb)
 - Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/fancies.rb)
+- Purrstige Cattributes in [`/kittyverse/../purrstiges.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/purrstiges.rb)
+
 
 
 ## License
