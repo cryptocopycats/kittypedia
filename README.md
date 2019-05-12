@@ -98,17 +98,17 @@ $ curl https://raw.githubusercontent.com/cryptocopycats/kittyverse.json/master/t
 Note: The JSON files get (auto-)generated using the kittyverse library and datasets, thus, **please do NOT
 edit the JSON files but the source text files in the kittyverse repo** e.g.:
 
-- Trait Types and Traits in [`/kittyverse/../traits.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/traits.rb)
-- Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/fancies.rb)
+- Trait Types and Traits in [`/kittyverse/../traits.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/traits.rb)
+- Fancy Cats (Exclusives, Special Editions, etc.) in [`/kittyverse/../fancies.rb`](https://github.com/cryptocopycats/kittyverse/blob/master/lib/kittyverse/config/fancies.rb)
 
-
-
-## Questions? Comments?
-
-Post them on the [cryptokitties reddit](https://www.reddit.com/r/cryptokitties). Thanks.
 
 ## License
 
 ![](https://publicdomainworks.github.io/buttons/zero88x31.png)
 
 The kittyverse.json schema & data are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+
+## Questions? Comments?
+
+Post them on the [cryptokitties reddit](https://www.reddit.com/r/cryptokitties). Thanks.
