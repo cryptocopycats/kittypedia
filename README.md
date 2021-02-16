@@ -1,5 +1,6 @@
-# Kittypedia  - CryptoKitties Rarity & Popularity Statistics, All Traits & Cattributes, Fancy (Exclusive, Special Edition) Timeline, & More
+# Kittypedia  - CryptoKitties Encyclopedia 
 
+All About Rarity & Popularity Statistics, Traits & Cattributes, Fancy (Exclusive, Special Edition) Timelines, & More
 
 
 
