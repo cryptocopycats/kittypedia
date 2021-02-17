@@ -1,6 +1,6 @@
-# Cattributes Rarity / Popularity Statistics
+# Cattributes Rarity & Popularity Statistics
 
-(Source: [`api.cryptokitties.co/cattributes` (JSON)](https://api.cryptokitties.co/cattributes), [(CSV)](datasets))
+(Source: [`api.cryptokitties.co/cattributes` (JSON)](https://api.cryptokitties.co/cattributes), [(CSV)](https://github.com/cryptocopycats/kitties/tree/master/cattributes.csv))
 
 
 [Fur (FU)](#fur-fu) • [Pattern (PA)](#pattern-pa) • [Eye Color (EC)](#eye-color-ec) • [Eye Shape (ES)](#eye-shape-es) • [Base Color (BC)](#base-color-bc) • [Highlight Color (HC)](#highlight-color-hc) • [Accent Color (AC)](#accent-color-ac) • [Wild Element (WE)](#wild-element-we) • [Mouth (MO)](#mouth-mo) • [Environment (EN)](#environment-en) • [Purrstige (PU)](#purrstige-pu)
