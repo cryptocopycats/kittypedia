@@ -1,13 +1,25 @@
-# Kittypedia  - CryptoKitties Encyclopedia 
+# Kittypedia  - CryptoKitties Encyclopedia
 
 All About Rarity & Popularity Statistics, Traits & Cattributes, Fancy (Exclusive, Special Edition) Timelines, & More
 
 
 
+Pages
+
+- [**Cattributes Rarity / Popularity Statistics**](CATTRIBUTES.md)
+- [**Genome / Genes Cheat Sheet**](GENES.md) - Fur (FU) · Pattern (PA) · Eye Color (EC) · Eye Shape (ES) · Base Color (BC) · Highlight Color (HC) · Accent Color (AC) · Wild Element (WE) · Mouth (MO) · Environment (EN) · Secret Y Gene (SE) · Purrstige (PU)
+- [**Traits Cheat Sheet (with Codes, Mewtation Levels / Tiers, Search Links and More)**](TRAITS.md)
+
+Updates & Timelines
+
+- [**Fancy / Exclusive / Special Edition Cats - Timeline**](TIMELINE-FANCIES.md)
+- [**Purrstige Trait Recipes / Formulas - Timeline**](TIMELINE-PURRSTIGES.md)
+- [**Traits - Timeline**](TIMELINE-TRAITS.md)
 
 
+More
 
-
+- [**Glossary / Gene Sciene Terms**](GLOSSARY.md)
 
 
 
