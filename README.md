@@ -19,7 +19,7 @@ Updates & Timelines
 
 More
 
-- [**Glossary / Gene Sciene Terms**](GLOSSARY.md)
+- [**Glossary / Gene Science Terms**](GLOSSARY.md)
 
 
 
