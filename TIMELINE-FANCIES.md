@@ -228,8 +228,13 @@ see <https://updates.cryptokitties.co>
 
 
 ![Ellie](https://cryptocopycats.github.io/media/kitties/100x100/fancy-ellie.png "Ellie")
-![Dave](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave.png "Dave")
-![Holly](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly.png "Holly")
+![Dave (Minty Fresh)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave-mintyfresh.png "Dave (Minty Fresh)")
+![Dave (Winter Green)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave-wintergreen.png "Dave (Winter Green)")
+![Dave (Berry Festive)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave-berryfestive.png "Dave (Berry Festive)")
+![Holly (Eggnog Latte)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-eggnoglatte.png "Holly (Eggnog Latte)")
+![Holly (Mint Mocha)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-mintmocha.png "Holly (Mint Mocha)")
+![Holly (Hot Cocoa Puff)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-hotcocoapuff.png "Holly (Hot Cocoa Puff)")
+![Holly (Gingerbread Latte)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-gingerbreadlatte.png "Holly (Gingerbread Latte)")
 ![Cat Frost](https://cryptocopycats.github.io/media/kitties/100x100/fancy-catfrost.png "Cat Frost")
 ![Abby](https://cryptocopycats.github.io/media/kitties/100x100/fancy-abby.png "Abby")
 ![Dart](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dart.png "Dart")
@@ -308,14 +313,14 @@ see <https://updates.cryptokitties.co>
 ![Purrspero](https://cryptocopycats.github.io/media/kitties/100x100/fancy-purrspero.png "Purrspero")
 ![Catbury](https://cryptocopycats.github.io/media/kitties/100x100/fancy-catbury.png "Catbury")
 ![Lulu](https://cryptocopycats.github.io/media/kitties/100x100/fancy-lulu.png "Lulu")
-![Boot Belgium](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-belgium.png "Boot Belgium")
-![Boot Brazil](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-brazil.png "Boot Brazil")
-![Boot Croatia](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-croatia.png "Boot Croatia")
-![Boot England](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-england.png "Boot England")
-![Boot France](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-france.png "Boot France")
-![Boot Russia](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-russia.png "Boot Russia")
-![Boot Sweden](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-sweden.png "Boot Sweden")
-![Boot Uruguay](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-uruguay.png "Boot Uruguay")
+![Boot (Belgium)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-belgium.png "Boot (Belgium)")
+![Boot (Brazil)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-brazil.png "Boot (Brazil)")
+![Boot (Croatia)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-croatia.png "Boot (Croatia)")
+![Boot (England)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-england.png "Boot (England)")
+![Boot (France)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-france.png "Boot (France)")
+![Boot (Russia)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-russia.png "Boot (Russia)")
+![Boot (Sweden)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-sweden.png "Boot (Sweden)")
+![Boot (Uruguay)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-uruguay.png "Boot (Uruguay)")
 ![Raspoutine](https://cryptocopycats.github.io/media/kitties/100x100/fancy-raspoutine.png "Raspoutine")
 ![Kitty Pride](https://cryptocopycats.github.io/media/kitties/100x100/fancy-kittypride.png "Kitty Pride")
 ![Furrmingo](https://cryptocopycats.github.io/media/kitties/100x100/fancy-furrmingo.png "Furrmingo")
@@ -376,23 +381,35 @@ Dec 19, 2020 (1123d)
 <a name="holly">
 
 - [**Holly**](https://www.cryptokitties.co/search?include=sale,sire,other&search=fancy:holly) (261+) Fancy Cat discovered. #Fancy Cat
-  - **3** traits:
+  - **3** traits + **4** variants:
     - **Chartreux**  (FU10) - Fur
     - **Wingtips** II (ES25) - Eye Shape
     - **Icy**  (AC03) - Accent Color
+      - **Eggnog Latte** (144)
+      - **Mint Mocha** (82)
+      - **Hot Cocoa Puff** (16)
+      - **Gingerbread Latte** (19)
 
-![Holly](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly.png "Holly")
+![Holly (Eggnog Latte)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-eggnoglatte.png "Holly (Eggnog Latte)")
+![Holly (Mint Mocha)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-mintmocha.png "Holly (Mint Mocha)")
+![Holly (Hot Cocoa Puff)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-hotcocoapuff.png "Holly (Hot Cocoa Puff)")
+![Holly (Gingerbread Latte)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-holly-gingerbreadlatte.png "Holly (Gingerbread Latte)")
 
 
 <a name="dave">
 
 - [**Dave**](https://www.cryptokitties.co/search?include=sale,sire,other&search=fancy:dave) (239+) Fancy Cat discovered. #Fancy Cat
-  - **3** traits:
+  - **3** traits + **3** variants:
     - **Norwegianforest** I (FU16) - Fur
     - **Icy**  (AC03) - Accent Color
     - **Frozen** II (EN25) - Environment
+      - **Minty Fresh** (192)
+      - **Winter Green** (26)
+      - **Berry Festive** (21)
 
-![Dave](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave.png "Dave")
+![Dave (Minty Fresh)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave-mintyfresh.png "Dave (Minty Fresh)")
+![Dave (Winter Green)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave-wintergreen.png "Dave (Winter Green)")
+![Dave (Berry Festive)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-dave-berryfestive.png "Dave (Berry Festive)")
 
 
 Dec 14, 2020 (1118d)
@@ -1897,14 +1914,14 @@ Jul 5, 2018 (225d)
       - **Uruguay** (193), **1** trait:
         - **Aquamarine**  (BC06), **Nachocheez**  (BC07), **Koala** I (BC19) - Base Color
 
-![Boot Belgium](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-belgium.png "Boot Belgium")
-![Boot Brazil](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-brazil.png "Boot Brazil")
-![Boot Croatia](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-croatia.png "Boot Croatia")
-![Boot England](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-england.png "Boot England")
-![Boot France](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-france.png "Boot France")
-![Boot Russia](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-russia.png "Boot Russia")
-![Boot Sweden](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-sweden.png "Boot Sweden")
-![Boot Uruguay](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-uruguay.png "Boot Uruguay")
+![Boot (Belgium)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-belgium.png "Boot (Belgium)")
+![Boot (Brazil)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-brazil.png "Boot (Brazil)")
+![Boot (Croatia)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-croatia.png "Boot (Croatia)")
+![Boot (England)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-england.png "Boot (England)")
+![Boot (France)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-france.png "Boot (France)")
+![Boot (Russia)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-russia.png "Boot (Russia)")
+![Boot (Sweden)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-sweden.png "Boot (Sweden)")
+![Boot (Uruguay)](https://cryptocopycats.github.io/media/kitties/100x100/fancy-boot-uruguay.png "Boot (Uruguay)")
 
 
 ### June
