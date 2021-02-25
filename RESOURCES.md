@@ -35,9 +35,9 @@ _256-bit Genome - 48 Genes (12 Traits x 4 P, H1, H2, H3)_
 
 _All Genes, Trait Types, Traits, Fancy / Exclusive / Special Edition Cats, Cattributes & More_
 
-- [Genes / Traits Chart @ Copycats](https://github.com/cryptocopycats/kittyverse/blob/master/GENES.md)
-- [Cattributes Rarity & Popularity Statistics @ Copycats](https://github.com/cryptocopycats/copycats/blob/master/updates/CATTRIBUTES.md)
-- [Fancy, Exclusive and Special Editions Cats Timeline @ Copycats](https://github.com/cryptocopycats/kittyverse/blob/master/updates/FANCIES.md)
+- [Genes / Traits Chart @ Kittypedia](https://github.com/cryptocopycats/kittypedia/blob/master/GENES.md)
+- [Cattributes Rarity & Popularity Statistics @ Kittypedia](https://github.com/cryptocopycats/kittypedia/blob/master/TIMELINE-CATTRIBUTES.md)
+- [Fancy, Exclusive and Special Editions Cats Timeline @ Kittypedia](https://github.com/cryptocopycats/kittypedia/blob/master/TIMELINE-FANCIES.md)
 - [Cattributes & Fancies Timeline @ Kotobaza.co](https://blog.kotobaza.co/timeline)
 - [Fancies @ Kotobaza.co](https://blog.kotobaza.co/cryptokitties-fancies)
 - [Fancies @ Rolldice.club](http://www.rolldice.club/cryptokitties/wkt_catrib.php)
@@ -83,6 +83,7 @@ _Search by Cattributes, Genes (P, H1, H2, H3), Generation, Fancy Type & More_
 
 _Pick the Fur, Pattern, Eyes, & Mouth Types and the Pattern, Highlight, Accent & Eyes Colors_ 
 
+- [Kitty Designer @ Kitty Helper](https://kittyhelper.co/kitty-constructor/)
 - [Kitty Designer @ Rolldice.club](http://www.rolldice.club/cryptokitties/wkt_creator.php)
 - [Kitty Designer](https://bytesforbites.github.io/cryptokitty-designer/#/), [(Source)](https://github.com/BytesForBites/cryptokitty-designer) by Abhishek Chadha 
    - Hackernoon Article - [Hacking the CryptoKitties Genome](https://hackernoon.com/hacking-the-cryptokitties-genome-1cb3e7dddab3) by Abhishek Chadha, December 2017
