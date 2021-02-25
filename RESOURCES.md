@@ -100,7 +100,7 @@ _Pick the Fur, Pattern, Eyes, & Mouth Types and the Pattern, Highlight, Accent &
 
 **More**
 
-- [`/kittyverse.json` @ Copycats](https://github.com/cryptocopycats/kittyverse.json) incl. trait types & traits, fancies timeline (incl. limits, ids, time windows, trait recipes and more)
+- [`/kittyverse.json` @ Copycats](https://github.com/cryptocopycats/kitties/tree/master/kittyverse.json) incl. trait types & traits, fancies timeline (incl. limits, ids, time windows, trait recipes and more)
 
 
 
