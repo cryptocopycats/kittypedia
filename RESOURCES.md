@@ -111,7 +111,7 @@ _Pick the Fur, Pattern, Eyes, & Mouth Types and the Pattern, Highlight, Accent &
 - [kittyverse @ Copycats](https://github.com/cryptocopycats/kittyverse) - helper classes for cattributes, trait types, traits, genes, genomes and more for cryptokitties and copycats
 - [copycats @ Copycats](https://github.com/cryptocopycats/copycats) - copycats command line tool (and core library) - crypto cats / kitties collectibles unchained
 - [bitcat @ Copycats](https://github.com/cryptocopycats/bitcat) -  bit catalog browser - browse your digital bit(s) collections; browse your crypto kitties / cats and more 
-- [base32-alphabets @ Copycats](https://github.com/cryptocopycats/base32-alphabets) - - base32 encoding / decoding in 5-bit groups (2^5=32) with kai, crockford or electrologica notations / alphabets
+- [base32-alphabets @ Blockchain](https://github.com/rubycoco/blockchain/tree/master/base32-alphabets) - base32 encoding / decoding in 5-bit groups (2^5=32) with kai, crockford or electrologica notations / alphabets
 
 **JavaScript**
 
