@@ -83,7 +83,7 @@ _Search by Cattributes, Genes (P, H1, H2, H3), Generation, Fancy Type & More_
 
 _Pick the Fur, Pattern, Eyes, & Mouth Types and the Pattern, Highlight, Accent & Eyes Colors_ 
 
-- [Kitty Designer @ Kitty Helper](https://kittyhelper.co/kitty-constructor/)
+- [Kitty Designer @ KittyHelper.co](https://kittyhelper.co/kitty-constructor/)
 - [Kitty Designer @ Rolldice.club](http://www.rolldice.club/cryptokitties/wkt_creator.php)
 - [Kitty Designer](https://bytesforbites.github.io/cryptokitty-designer/#/), [(Source)](https://github.com/BytesForBites/cryptokitty-designer) by Abhishek Chadha 
    - Hackernoon Article - [Hacking the CryptoKitties Genome](https://hackernoon.com/hacking-the-cryptokitties-genome-1cb3e7dddab3) by Abhishek Chadha, December 2017
