@@ -19,7 +19,7 @@ Updates & Timelines
 
 Appendix
 
-- [**CryptoKitties (& Copycats) Resources - Links, Links, Links**](RESOURCES.md)
+- [**Links, Links, Links - CryptoKitties (& Copycats) Resources**](RESOURCES.md)
 - [**Glossary / Gene Science Terms**](GLOSSARY.md)
 
 
