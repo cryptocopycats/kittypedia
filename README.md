@@ -17,8 +17,9 @@ Updates & Timelines
 - [**Traits - Timeline**](TIMELINE-TRAITS.md)
 
 
-More
+Appendix
 
+- [**CryptoKitties (& Copycats) Resources - Links, Links, Links**](RESOURCES.md)
 - [**Glossary / Gene Science Terms**](GLOSSARY.md)
 
 
