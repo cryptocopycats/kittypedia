@@ -49,8 +49,11 @@ _All Genes, Trait Types, Traits, Fancy / Exclusive / Special Edition Cats, Cattr
 _Daily Users, Daily New Kitties, Daily Sales Volume (in ETH) & More_
 
 - [CryptoKitties @ DappRadar](https://dappradar.com/app/3/cryptokitties)
-- [CryptoKitties @ Gameunculus](https://gameunculus.io/app/1/cryptokitties)
+- [CryptoKitties @ CryptoSlam!](https://cryptoslam.io/cryptokitties)
 
+<!-- out of date - no longer exist
+- [CryptoKitties @ Gameunculus](https://gameunculus.io/app/1/cryptokitties)
+-->
 
 ## Blockchain Browser / Explorer
 
