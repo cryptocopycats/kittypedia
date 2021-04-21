@@ -7,7 +7,7 @@
 
 Yes, Dapper Labs - the $7.5 billion dollar CryptoKitties gambling operator & promotor - falesly (or is that fraudulently?) 
 claiming it's a "video game with cute-little cartoon cats that you own 100%" - 
-censors this author's public service message. Remember - I do not get paid for updating this pages.
+censors this author's public service message. Remember - I do not get paid for updating the pages here.
 
 ---
 
